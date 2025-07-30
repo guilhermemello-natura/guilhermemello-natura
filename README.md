@@ -21,6 +21,7 @@ Minha base acadêmica inclui Pós-graduação em Engenharia de Dados pela PUC, a
   - SQL
 - Ferramentas:
   - Databricks
+  - Git
   - Power Plataform
   - Google Workspace
   - Microsoft 365
